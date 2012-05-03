@@ -1,0 +1,14 @@
+=head1 SketchGrid CSS Framework
+
+Yet Another CSS Responsive Framework
+
+=head2 AUTOR
+
+Contributors: Johnny De Castro
+
+=head2 LICENSE
+
+Artistic License 2.0 L<http://www.perlfoundation.org/artistic_license_2_0>
+
+Donate link: not yet
+Stable tag: 0.1
