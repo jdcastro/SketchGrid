@@ -12,3 +12,5 @@ Artistic License 2.0 L<http://www.perlfoundation.org/artistic_license_2_0>
 
 Donate link: not yet
 Stable tag: 0.1
+
+=cut
