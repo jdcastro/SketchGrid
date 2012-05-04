@@ -1,8 +1,8 @@
 =head1 NAME
 
-B<SketchGrid CSS Framework>
+B<SketchGrid>
 
-I<Yet Another CSS Responsive Framework>
+I<Yet Another CSS Responsive Web Kit>
 
 =head1 DESCRIPTION
 
