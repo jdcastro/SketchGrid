@@ -64,7 +64,7 @@ Artistic License 2.0 L<http://www.perlfoundation.org/artistic_license_2_0>
 
 =head1 AUTHOR
 
-Johnny De Castro - L<http://www.jdcastro.com/>
+Johnny De Castro - L<http://www.unweb.co/>
 
 UnWeb.CO L<http://www.unweb.co/>
 
